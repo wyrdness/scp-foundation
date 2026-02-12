@@ -1,0 +1,49 @@
+{
+  "id": "scp-foundation",
+  "name": "SCP Foundation",
+  "category": "Modern Internet Folklore",
+  "type": "Collaborative Fiction",
+  "version": "1.0.0",
+  "last_updated": "2026-01-14",
+  "locations": [
+    {
+      "name": "Internet/Global",
+      "region": "Online Community",
+      "country": "Worldwide",
+      "coordinates": null
+    }
+  ],
+  "origin": {
+    "culture": "Internet Culture",
+    "period": "2007-Present",
+    "source": "4chan /x/ Board"
+  },
+  "description": {
+    "short": "Collaborative fiction project featuring a fictional organization that secures, contains, and protects anomalous objects and entities.",
+    "long": "The SCP Foundation is a creative writing project that began on 4chan's /x/ paranormal board in 2007. It presents itself as a fictional secret organization that documents and contains supernatural phenomena, anomalous objects, and dangerous entities. The project uses a wiki format where contributors write clinical reports about numbered anomalies (SCPs) in a mock-scientific style. While entirely fictional, the Foundation's documentation style and collaborative nature have made it one of the internet's most influential horror fiction projects, spawning games, artwork, and a vast interconnected universe. Content is shared under Creative Commons licensing."
+  },
+  "characteristics": [
+    "Wiki-based collaborative fiction",
+    "Mock-scientific documentation style",
+    "Numbered anomaly classification system",
+    "Creative Commons licensing",
+    "Community-driven content creation",
+    "Clinical horror writing style",
+    "Interconnected fictional universe"
+  ],
+  "status": {
+    "confirmed": false,
+    "explanation": "Documented fictional creation that originated on 4chan in 2007 and evolved into a collaborative creative writing project",
+    "evidence_level": "Fictional Work"
+  },
+  "cultural_impact": {
+    "significance": "Major influence on internet horror fiction and collaborative storytelling",
+    "modern_usage": "Active community with thousands of articles, games, merchandise, and adaptations",
+    "folklore_type": "Modern Collaborative Fiction"
+  },
+  "see_also": [
+    "creepypasta",
+    "internet-folklore",
+    "collaborative-fiction"
+  ]
+}
