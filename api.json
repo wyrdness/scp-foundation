@@ -1,49 +1,126 @@
 {
-  "id": "scp-foundation",
-  "name": "SCP Foundation",
-  "category": "Modern Internet Folklore",
-  "type": "Collaborative Fiction",
-  "version": "1.0.0",
-  "last_updated": "2026-01-14",
-  "locations": [
-    {
-      "name": "Internet/Global",
-      "region": "Online Community",
-      "country": "Worldwide",
-      "coordinates": null
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/scp-foundation",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
     }
-  ],
-  "origin": {
-    "culture": "Internet Culture",
-    "period": "2007-Present",
-    "source": "4chan /x/ Board"
   },
-  "description": {
-    "short": "Collaborative fiction project featuring a fictional organization that secures, contains, and protects anomalous objects and entities.",
-    "long": "The SCP Foundation is a creative writing project that began on 4chan's /x/ paranormal board in 2007. It presents itself as a fictional secret organization that documents and contains supernatural phenomena, anomalous objects, and dangerous entities. The project uses a wiki format where contributors write clinical reports about numbered anomalies (SCPs) in a mock-scientific style. While entirely fictional, the Foundation's documentation style and collaborative nature have made it one of the internet's most influential horror fiction projects, spawning games, artwork, and a vast interconnected universe. Content is shared under Creative Commons licensing."
+  "phenomenon": {
+    "id": "scp-foundation",
+    "name": "SCP Foundation",
+    "aliases": [],
+    "category": "MODERN_INTERNET_FOLKLORE",
+    "subcategory": "Unknown",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The **SCP Foundation** is a collaborative fiction project featuring a fictional organization that secures, contains, and protects anomalous objects and entities.",
+      "full": "The **SCP Foundation** is a collaborative fiction project featuring a fictional organization that secures, contains, and protects anomalous objects and entities. Created in 2007 on 4chan's /x/ board, it has become one of the internet's most influential horror fiction projects."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
   },
-  "characteristics": [
-    "Wiki-based collaborative fiction",
-    "Mock-scientific documentation style",
-    "Numbered anomaly classification system",
-    "Creative Commons licensing",
-    "Community-driven content creation",
-    "Clinical horror writing style",
-    "Interconnected fictional universe"
-  ],
-  "status": {
-    "confirmed": false,
-    "explanation": "Documented fictional creation that originated on 4chan in 2007 and evolved into a collaborative creative writing project",
-    "evidence_level": "Fictional Work"
+  "classification": {
+    "taxonomy": {
+      "category": "MODERN_INTERNET_FOLKLORE",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
   },
-  "cultural_impact": {
-    "significance": "Major influence on internet horror fiction and collaborative storytelling",
-    "modern_usage": "Active community with thousands of articles, games, merchandise, and adaptations",
-    "folklore_type": "Modern Collaborative Fiction"
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
   },
-  "see_also": [
-    "creepypasta",
-    "internet-folklore",
-    "collaborative-fiction"
-  ]
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
